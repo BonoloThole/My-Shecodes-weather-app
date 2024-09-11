@@ -29,7 +29,9 @@ function formatDate(date) {
   if (hours < 10) {
     hours = `0${hours}`;
   }
-
+current-temperature-icon{text-align : left;}
+current-temperature{{text-align:left;}
+current-temperature-unit { text-align;}
   let days = [
     "Sunday",
     "Monday",
